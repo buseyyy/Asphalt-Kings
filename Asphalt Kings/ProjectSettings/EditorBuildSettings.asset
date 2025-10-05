@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Asphalt Kings.unity
+    guid: 84729eeda748340d0955715b6a50b370
+  - enabled: 1
+    path: Assets/Scenes/Dead Scene.unity
+    guid: f78df5bf8fb7233478ba8f3cba2e0fa2
+  - enabled: 1
+    path: Assets/Scenes/Finish Scene.unity
+    guid: b6003632604518b42b99a14fdf32b4ac
   m_configObjects: {}
